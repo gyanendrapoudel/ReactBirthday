@@ -5,7 +5,7 @@ const User = ({user}) => {
       <img
         src={user.picture.thumbnail}
         alt=""
-        style={{ width: '150px' }}
+        style={{ width: '100px' }}
         className="rounded-circle"
       />
       <div className=" ms-3 pt-3">
